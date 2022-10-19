@@ -317,7 +317,6 @@ def check():
 def main():
     banner_0()
     if not voice == 1:SpeakDone("مرحبا بك قم باختيار احد الوظائف")
-    else:print (f"{w}[{c}+{w}] Hi , Please Choose Number Of This Functions")
     while True:
         SpeakDone("صلي علي محمد")
         print(f"""{choice(colors)}
