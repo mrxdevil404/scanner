@@ -9,6 +9,7 @@ Jobs :
 2. To Scan Specific Extentions like .jpg
 3. To Scan All Files In Directory
 4. Scan Files Which Already Downloaded In Your Device
+5. If you face error when you convert to .exe delete dir .git
 If You Want To Turn Off to sound edit in voice.txt make value 0 Not Delete It ..
 If Any Explains : 
  Contact Me:
